@@ -52,9 +52,9 @@ https://templatemo.com/tm-558-klassy-cafe
                 <div class="col-12">
                     <nav class="main-nav">
                         <!-- ***** Logo Start ***** -->
-                        {{-- <a href="index.html" class="logo">
+                         <a href="home" class="logo">
                             <img src="assets/images/klassy-logo.png" align="klassy cafe html template" width="177" height="65">
-                        </a> --}}
+                        </a> 
                         <!-- ***** Logo End ***** -->
                         <!-- ***** Menu Start ***** -->
                         <ul class="nav">
@@ -210,7 +210,7 @@ https://templatemo.com/tm-558-klassy-cafe
                     <div class="section-heading">
                         <h6>Our Menu</h6>
                         <h2>Our selection of cakes with quality taste</h2>
-                    </div>
+                    </div>admin@gmail.com
                 </div>
             </div>
         </div>
@@ -281,7 +281,7 @@ https://templatemo.com/tm-558-klassy-cafe
                         <div class='card card3'>
                             <div class="price"><h6>$7.25</h6></div>
                             <div class='info'>
-                              <h1 class='title'>classic Cake</h1>
+                              <h1 class='title'>classic Cakeadmin@gmail.com</h1>
                               <p class='description'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sedii do eiusmod teme.</p>
                               <div class="main-text-button">
                                   <div class="scroll-to-section"><a href="#reservation">Make Reservation <i class="fa fa-angle-down"></i></a></div>
@@ -466,7 +466,7 @@ https://templatemo.com/tm-558-klassy-cafe
                           </div>
                         </form>
                     </div>
-                </div>
+                    admin@gmail.com     </div>
             </div>
         </div>
     </section>
@@ -482,7 +482,7 @@ https://templatemo.com/tm-558-klassy-cafe
                         <h2>This Week’s Special Meal Offers</h2>
                     </div>
                 </div>
-            </div>
+                admin@gmail.com </div>
             <div class="row">
                 <div class="col-lg-12">
                     <div class="row" id="tabs">
@@ -746,15 +746,17 @@ https://templatemo.com/tm-558-klassy-cafe
                     <div class="right-text-content">
                             <ul class="social-icons">
                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="https://twitter.com/Bryan46128045"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                                <li><a href="https://twitter.com/_Brownbryan"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="https://www.linkedin.com/in/brian-muriuki-4513b9253/"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a href="https://www.instagram.com/_brownbryan/"><i class="fa fa-instagram"></i></a></li>
+                                <li><a href="#"><i class="fa fa-google"></i></a></li>
+                            </ul>
                             </ul>
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="logo">
-                        <a href="index.html"><img src="assets/images/white-logo.png" alt="" width="90" height="100"></a>
+                        <a href="home"><img src="assets/images/white-logo.png" alt="" width="177" height="75"></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-xs-12">
